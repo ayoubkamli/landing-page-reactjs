@@ -2,7 +2,7 @@ import styles from './css/logo.module.css'
 
 const Logo = () => {
     return(
-        <p>AKAMLI</p>
+        <p className={styles.logo}>AKAMLI</p>
     );
 }
 

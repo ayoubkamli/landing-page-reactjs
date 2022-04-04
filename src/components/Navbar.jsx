@@ -10,7 +10,7 @@ const Navbar = () => {
                 <li><a href="#">Contact</a></li>
             </ul>
         </nav>
-        <a className='cta' href="#" > <button>Become a member</button> </a>
+        <a className='cta' href="#" > <button className={styles.cta_button}>Become a member</button> </a>
         </>
     );
 }

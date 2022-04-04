@@ -1,0 +1,35 @@
+.card {
+    
+    width: 250px;
+    height: 150px;
+    background-color: rgb(245, 245, 245);
+    color: #23a5f0;
+    margin-top: -50px;
+    padding: 30px;;
+    
+}
+
+.card_active {
+    width: 250px;
+    height: 150px;
+    background-color: #23a5f0;
+    color: #ffffff;
+    margin-top: -50px;
+    padding: 30px;;
+}
+
+.icon {
+    
+    width: 30px;
+    height: 30px;
+}
+
+.card_h2_style {
+    color: black;
+    font-size: 20px;
+}
+
+.card_p {
+    color: black;
+    font-size: 12px;
+}
