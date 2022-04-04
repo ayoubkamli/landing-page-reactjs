@@ -6,8 +6,8 @@ const Card = (prop) => {
     const [isActive, setIsActive] = useState(false);
     useEffect( () =>{
          const active = prop.isActive;
-    setIsActive(active);
-    console.log(isActive);
+        setIsActive(active);
+        console.log(active);
  
     }, []);
   

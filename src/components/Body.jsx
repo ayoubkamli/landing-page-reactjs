@@ -6,7 +6,7 @@ const Body = () => {
     return <div className={styles.div_card}>
         <Card title='Peace of Mind' />
         <Card title='Set For Life'/>
-        <Card title='100% Satisfaction' isActive='true' />
+        <Card title='100% Satisfaction' isActive />
     </div>
 }
 
