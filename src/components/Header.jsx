@@ -1,6 +1,6 @@
 import Navbar from './Navbar';
 import Logo from './Logo'
-import styles from './css/header.module.css'
+import styles from '../css/header.module.css'
 import MainTitle from './MainTitle';
 import ActionButton from './ActionButton';
 

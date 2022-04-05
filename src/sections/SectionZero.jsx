@@ -1,8 +1,8 @@
-import Card from './Card'
+import Card from '../components/Card'
 
-import styles from './css/body.module.css'
+import styles from '../css/section_zero.module.css'
 
-const Body = () => {
+const SectionZero = () => {
     return <div className={styles.div_card}>
         <Card title='Peace of Mind' />
         <Card title='Set For Life'/>
@@ -10,4 +10,4 @@ const Body = () => {
     </div>
 }
 
-export default Body;
+export default SectionZero;

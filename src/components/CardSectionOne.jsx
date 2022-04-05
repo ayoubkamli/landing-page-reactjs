@@ -1,4 +1,4 @@
-import styles from './css/card_one.module.css'
+import styles from '../css/card_one.module.css'
 
 import {FiUsers} from 'react-icons/fi'
 import { useEffect, useState } from 'react'

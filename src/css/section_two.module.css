@@ -1,0 +1,24 @@
+.container {
+    background-color: #ffffff;
+    width: 100%;
+    padding: 25px;
+}
+
+.title {
+    text-align: center;
+    letter-spacing: 5px;
+    font-size: 36px;
+    margin: 25px;
+}
+
+.text {
+    text-align: center;
+    margin: auto;
+    width: 300px;
+}
+
+.card_container {
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+}

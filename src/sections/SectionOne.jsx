@@ -1,6 +1,6 @@
 import { FiPhoneOff } from "react-icons/fi";
-import CardSectionOne from "./CardSectionOne";
-import styles from './css/section_one.module.css'
+import CardSectionOne from "../components/CardSectionOne";
+import styles from '../css/section_one.module.css'
 
 const SectionOne = () => {
     const text = 'The quick fox jumps over the lazy dog The quick fox jumps over the dog'
