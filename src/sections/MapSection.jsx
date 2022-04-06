@@ -1,3 +1,4 @@
+import Form from '../components/Form';
 import styles from '../css/map.module.css'
 const MapSection = () => {
     return (
@@ -13,6 +14,7 @@ const MapSection = () => {
                 </div>
                 <img src={require("../images/map.png")} alt="img" width='250px' height='120px' />
             </div>
+            <Form />
         </div>
     );
 }

@@ -1,0 +1,40 @@
+.div__container {
+    height: 500px;
+    width: 800px;
+    background-color: rgb(255, 255, 255);
+    margin: auto;
+    margin-top: -150px;
+display: flex;}
+
+.title {
+    margin: 30px;
+    text-align: center;
+}
+
+.div__form {
+    background-color: rgb(180, 180, 180);
+    height: 500px;
+    width: 500px;
+}
+
+.div__image {
+    background-color: rgb(255, 196, 255);
+    height: 500px;
+    width: 300px;
+}
+
+.form__style {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.form__style label{
+    align-self: flex-start;
+    margin-left: 75px; 
+}
+
+.input__style {
+    width: 75%;
+    height: 30px;
+}
