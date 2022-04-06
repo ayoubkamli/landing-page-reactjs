@@ -22,7 +22,7 @@ const PricingCard = (props) => {
   
     return <div className={card}>
             <h1 className={styles.title}>STANDARD</h1>
-            <h2 className={styles.discription}>Organize across all apps by hand</h2>
+            <h2 className={styles.card__desc}>Organize across all apps by hand</h2>
             <p className={styles.pricing}><span className={styles.price}>9.99</span><span className={styles.duration}>Per month</span> </p>   
             <ul className={list}>
                 <li className={list}><span><FaCheckCircle color='green' size='25px'/></span> Unlimited product updates</li>

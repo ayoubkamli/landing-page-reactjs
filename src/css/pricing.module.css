@@ -33,6 +33,12 @@
     margin: 25px;
 }
 
+.card__desc {
+    text-align: center;
+    font-size: 18px;
+    font-weight: 100;
+}
+
 .discription {
     width: 350px;
     margin:  25px auto;
