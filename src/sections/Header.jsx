@@ -1,8 +1,8 @@
-import Navbar from './Navbar';
-import Logo from './Logo'
+import Navbar from '../components/Navbar';
+import Logo from '../components/Logo'
 import styles from '../css/header.module.css'
-import MainTitle from './MainTitle';
-import ActionButton from './ActionButton';
+import MainTitle from '../components/MainTitle';
+import ActionButton from '../components/ActionButton';
 
 const Header = () => {
     return (

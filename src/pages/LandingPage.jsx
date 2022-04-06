@@ -1,7 +1,8 @@
-import Header from "../components/Header";
+import Header from "../sections/Header";
 import Body from '../sections/SectionZero'
 import SectionOne from "../sections/SectionOne";
 import SectionTwo from '../sections/SectionTwo'
+import Pricing from "../sections/pricing";
 
 const LandingPage = () => {
     return (
@@ -10,6 +11,7 @@ const LandingPage = () => {
         <Body/>
         <SectionOne />
         <SectionTwo />
+        <Pricing />
         </>
     );
 }

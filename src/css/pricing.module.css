@@ -1,0 +1,75 @@
+.container {
+    background-color: #f5f5f5;
+    width: 100%;
+    padding: 25px;
+    align-content: center;
+}
+
+.card {
+    width: 335px;
+    height: 665px;
+    background-color: rgb(255, 255, 255);
+    margin-top: 45px ;
+    padding-top: 10px;
+    border-radius: 20px;
+
+}
+
+.card__active {
+    width: 345px;
+    height: 725px;
+    background-color: #252B42;
+    border-radius: 20px;
+    color: white;
+
+}
+
+
+
+.title {
+    text-align: center;
+    letter-spacing: 5px;
+    font-size: 36px;
+    margin: 25px;
+}
+
+.discription {
+    width: 350px;
+    margin:  25px auto;
+    text-align: center;   
+    font-weight: 90;
+}
+
+.price{
+    font-size: 36px;
+    color: #23A6F0;
+}
+
+.duration {
+    color: #8EC2F2;
+    
+}
+
+.card_container {
+    background-color: rgba(255, 255, 255, 0);
+    display: flex;
+    justify-content: center;
+
+}
+
+.pricing {
+    padding-top: 25px;
+    text-align: center;
+}
+
+.list {
+    list-style: none;
+    padding: 10px 20px;
+    color: black;
+}
+
+.list__active {
+    list-style: none;
+    padding: 10px 20px;
+    color: white;
+}
